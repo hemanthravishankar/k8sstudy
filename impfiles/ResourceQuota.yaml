@@ -5,4 +5,4 @@ metadata:
   namespace: testnamespace
 spec:
   hard:
-    pods: "3"
+    pods: "15"
